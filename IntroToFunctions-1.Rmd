@@ -119,6 +119,8 @@ median(1, 5, 10, 15, 20, 25)
 length(c(1, 5, 10, 15, 20, 25))
 sample(c(1, 5, 10, 15, 20, 25))
 paste("Precious", "Merenu")
+paste0("Precious", "Merenu")
+paste("Precious", "Merenu", sep = "   ")
 ```
  
 # Arguments
