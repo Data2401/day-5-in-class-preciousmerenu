@@ -32,7 +32,7 @@ area = 2*radius *pi
 # Create a boolean variable `too_big` that is set to TRUE if the area is larger than 100
 # Use a relationship operator to do this  (don't just set it to "TRUE")
 # Think: how do you check if it's larger than 10? Assign that to your new variable name. 
-too big = area > 100
+too_big = area > 100
 
 # Display the variable `my_name`
 print(my_name)
